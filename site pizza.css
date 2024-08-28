@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: rgb(31, 31, 31);
+
+}
+
+/*barra navegacao e texto principal*/
+
+.navbar{
+    background-color: rgb(201, 117, 60);
+    width: 10rem;
+    height: 100vh;
+    border:;
+}
+
+.logo{
+    width: 1px;
+    height: 1px;
+}
+
+.fotologo{
+    width: 70px;
+    height: 70px;
+    margin-top: 5rem;
+    margin-left: 32px;
+}
+
+
+.perfil{
+    font-family: 'Poppins' , sans-serif;
+    background-color:;
+    color: aliceblue;
+    padding-left: 25px;
+    padding-top: 10rem;
+}
+
+#visitante{
+    margin-left: 10px;
+}
+
+.nav {
+    margin-left: 20px;
+    margin-top: 5rem;
+}
+
+.nav a{
+    font-family: 'Poppins' , sans-serif;
+    display: flex;
+    flex-direction: column;
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 20px;
+    font-weight: 500;
+    margin-top: 2rem;
+    margin-left: ;
+    transition: 0.4s;
+}
+
+.nav a:hover{
+    color: rgb(180, 180, 180);
+}
+
+.titulo p{
+    font-family: 'Onest' , sans-serif;
+    font-weight: 600;
+    font-size: 60px;
+    line-height: 60px;
+    margin-left: ;
+    margin-top: ;
+}
+
+.titulo{
+    width: 30rem;
+    height: 15rem;
+    margin-left: 20rem;
+    margin-top: -12rem;
+}
+
+.pizzarie{
+    color: aliceblue;
+}
+
+.sodaku{
+    color: rgb(201, 117, 60) ;
+}
+
+.imgpizza img{
+    margin-left: 71rem;
+    margin-top: -34rem;
+    width: 35rem;
+    height: 860px;
+}
+
+.imgpizza{
+    height: 2rem;
+}
